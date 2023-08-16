@@ -1,0 +1,12 @@
+﻿  LabWork1.cpp
+c:\str2018\projects\labwork1\labwork1.cpp(744): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\str2018\projects\labwork1\labwork1.cpp(842): warning C4002: too many arguments for function-like macro invocation 'xSemaphoreGive'
+c:\str2018\projects\labwork1\labwork1.cpp(888): warning C4002: too many arguments for function-like macro invocation 'xSemaphoreGive'
+c:\str2018\projects\labwork1\labwork1.cpp(893): warning C4002: too many arguments for function-like macro invocation 'xSemaphoreGive'
+c:\str2018\projects\labwork1\labwork1.cpp(922): warning C4002: too many arguments for function-like macro invocation 'xSemaphoreGive'
+c:\str2018\projects\labwork1\labwork1.cpp(974): warning C4002: too many arguments for function-like macro invocation 'xSemaphoreGive'
+c:\str2018\projects\labwork1\labwork1.cpp(929): warning C4101: 'j': unreferenced local variable
+c:\str2018\projects\labwork1\labwork1.cpp(929): warning C4101: 'i': unreferenced local variable
+c:\str2018\projects\labwork1\labwork1.cpp(1018): warning C4101: 'now': unreferenced local variable
+c:\str2018\projects\labwork1\labwork1.cpp(1019): warning C4101: 'led_state': unreferenced local variable
+  LabWork1.vcxproj -> C:\STR2018\Projects\LabWork1\Debug\LabWork1.exe
